@@ -2,7 +2,7 @@
 
 🎓 Pursuing BCA from CSJMU, Kanpur
 
-💻 Building my foundation in C C++,Java,HTML,CSS,JS,React,Springboot
+💻 Building my foundation in C, C++, Java, HTML, CSS, JS, React, Springboot
 
 🚀 Actively learning DSA, AI/ML
 
