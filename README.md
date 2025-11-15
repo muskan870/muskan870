@@ -1,20 +1,15 @@
-🚀 Hey there, I'm Muskan
+👋 Hey, I'm Muskan
 
-Currently leveling up my core tech stack while pursuing BCA from CSJMU, formely Kanpur University, with a vision to transition into the product-centric, innovation-first tech ecosystem. I’m actively building hands-on, scalable projects while deep-diving into modern development workflows
+🎓 Pursuing BCA from CSJMU, Kanpur
 
-🛠️ Core Tech Stack (Growing Daily)
-Languages: C, C++, Java, Python (basics)
-Web Tech: HTML, CSS, JS (learning)
-Tools: Git, GitHub, VS Code, Postman
-Learning Focus: DSA, DBMS, OOP, System Thinking
+💻 Building my foundation in C C++,Java,HTML,CSS,JS,React,Springboot
 
-📌 Current Roadmap
-🔁 Building projects consistently
-🔍 Deep diving into problem-solving
-🌱 Enhancing dev fundamentals & soft-skills
-🤝 Targeting internships and hackathons
+🚀 Actively learning DSA, AI/ML
 
-🤝 Open To
-Projects | Internships | Collabs | Learning Networks
+🧠 Focused on clean code + real-world projects
+
+🔍 Exploring software development & growth-driven opportunities
+
+🤝 Open for collabs, internships & tech networking
 
 ![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskan870&show_icons=true&theme=radical)
