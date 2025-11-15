@@ -16,3 +16,5 @@ Learning Focus: DSA, DBMS, OOP, System Thinking
 
 🤝 Open To
 Projects | Internships | Collabs | Learning Networks
+
+![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskan870&show_icons=true&theme=radical)
